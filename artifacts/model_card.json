@@ -1,0 +1,38 @@
+{
+  "model_version": "vendorlens-match-v1",
+  "task": "supplier duplicate pair classification (recommendation only)",
+  "model": "StandardScaler + LogisticRegression(class_weight='balanced')",
+  "features": [
+    "name_char_similarity",
+    "name_token_jaccard",
+    "name_token_containment",
+    "suffix_both_present_same",
+    "suffix_both_present_different",
+    "city_both_present_equal",
+    "city_both_present_different",
+    "city_missing",
+    "state_both_present_equal",
+    "state_both_present_different",
+    "state_missing",
+    "postal_both_present_equal",
+    "postal_both_present_different",
+    "postal_missing",
+    "website_both_present_equal",
+    "website_both_present_different",
+    "website_missing",
+    "address_char_similarity",
+    "address_missing"
+  ],
+  "thresholds": {
+    "decision": 0.21,
+    "likely": 0.93,
+    "review_lower": 0.02,
+    "selection_basis": "validation split (entity-disjoint from test); F1-max decision threshold, likely band = stricter of precision>=0.97 threshold and 5th percentile of true-match scores, review lower bound = stricter of recall>=0.98 threshold and 95th percentile of true-non-match scores"
+  },
+  "seed": 42,
+  "trained_at": "2026-11-21T06:13:26.326396+00:00",
+  "training_run_id": "4c5f3d1739c0492eb98d3b5f03cf1f2b",
+  "baseline_run_id": "d38624f9908f4afbb4e2f0e40ba30283",
+  "input_schema": "see docs/DATA_DICTIONARY.md",
+  "limitations": "Synthetic benchmark only; human review required before any merge."
+}

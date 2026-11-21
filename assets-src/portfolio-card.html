@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px; height: 675px; overflow: hidden;
+    font-family: Inter, "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(135deg, #0A1626 0%, #10233C 52%, #16304F 100%);
+    color: #F8FAFC; position: relative;
+  }
+  .glow { position: absolute; left: -180px; bottom: -220px; width: 720px; height: 720px;
+    background: radial-gradient(circle, rgba(45,212,191,0.15) 0%, rgba(45,212,191,0) 62%); }
+  .wrap { position: relative; height: 100%; padding: 64px 72px; display: flex; flex-direction: column; }
+  .top { display: flex; align-items: center; gap: 16px; }
+  .mark { width: 56px; height: 56px; border-radius: 14px; background: rgba(13,148,136,0.16); border: 1.4px solid rgba(45,212,191,0.5); display: flex; align-items: center; justify-content: center; }
+  .name { font-size: 34px; font-weight: 800; letter-spacing: -0.8px; }
+  .name .ai { color: #2DD4BF; }
+  .kicker { margin-top: 26px; font-size: 15px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; color: #5EEAD4; }
+  h1 { margin-top: 12px; font-size: 44px; font-weight: 800; line-height: 1.16; letter-spacing: -1px; max-width: 950px; }
+  p.summary { margin-top: 20px; font-size: 20px; line-height: 1.5; color: #B9CFE5; max-width: 880px; }
+  .rows { margin-top: auto; display: flex; gap: 14px; }
+  .row { flex: 1; border-top: 3px solid #2DD4BF; background: rgba(248,250,252,0.05); border-radius: 0 0 12px 12px; padding: 16px 18px; }
+  .row .t { font-size: 13px; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #5F8BBE; }
+  .row .v { margin-top: 8px; font-size: 16.5px; font-weight: 600; color: #F8FAFC; line-height: 1.4; }
+</style>
+</head>
+<body>
+  <div class="glow"></div>
+  <div class="wrap">
+    <div class="top">
+      <div class="mark">
+        <svg width="36" height="36" viewBox="0 0 64 64">
+          <circle cx="28" cy="28" r="15" fill="none" stroke="#2DD4BF" stroke-width="5"/>
+          <line x1="39" y1="39" x2="52" y2="52" stroke="#2DD4BF" stroke-width="6" stroke-linecap="round"/>
+          <circle cx="23" cy="33" r="3.6" fill="#F59E0B"/>
+          <circle cx="34" cy="24" r="3.6" fill="#2DD4BF"/>
+        </svg>
+      </div>
+      <div class="name">VendorLens <span class="ai">AI</span></div>
+    </div>
+    <div class="kicker">Machine Learning Engineering Portfolio</div>
+    <h1>Supplier identity resolution &amp; duplicate detection</h1>
+    <p class="summary">
+      An end-to-end ML product: seeded supplier-register benchmark, FAISS candidate
+      retrieval, an entity-disjoint trained classifier, human review workflow, and
+      reproducible evaluation with MLflow.
+    </p>
+    <div class="rows">
+      <div class="row"><div class="t">ML Pipeline</div><div class="v">scikit-learn · FAISS · MLflow · entity-disjoint evaluation</div></div>
+      <div class="row"><div class="t">Product</div><div class="v">FastAPI · PostgreSQL · React + TypeScript · human-in-the-loop review</div></div>
+      <div class="row"><div class="t">Quality</div><div class="v">pytest · Playwright e2e · Docker · GitHub Actions CI</div></div>
+    </div>
+  </div>
+</body>
+</html>

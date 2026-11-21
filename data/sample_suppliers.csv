@@ -1,0 +1,79 @@
+supplier_id,supplier_name,street_address,city,state,postal_code,country,website
+SUP-0012,Kingsley Cable Solutions Co.,4948 Railroad Blvd,Richmond,VA,23212,USA,kingsleycablegrp.example
+SUP-0018,Milstead Electronics Supplies Corp.,"2382 Washington Ave, Ste 15",Charlotte,NC,28288,USA,milsteadelectronics.example
+SUP-0029,ironwwood office materials GmbH,"5235 Oak Pkwy, Ste 97",Brooklyn,NY,11282,USA,ironwoodoffice.example
+SUP-0034,Pemberly Estate Trading,1382 Chestnut Ln,Minneapolis,MN,55427,USA,pemberlyrealestate-group.example
+SUP-0045,PEMBERLY MACHINE DISTRIBUTION,"1106 Chestnut Pkwy, Ste 171",Minneapolis,MN,55472,USA,pemberlymachine.example
+SUP-0060,PEMBERLY INDUSTRIES LLP,3829 Walnut St,Memphis,TN,38120,USA,pemberlyelectronics.example
+SUP-0087,Ravenwood Steel Distribution LLC,8533 Oak Dr,Chicago,IL,60621,USA,ravenwoodsteel.example
+SUP-0100,Kingsley Cable Solutions Ltd.,3198 Spruce Ln,Boston,MA,02141,USA,kingsleycable.example
+SUP-0122,PEMBERLY REAL ESTATE TRADING LLC,1643 Cameron Dr,Minneapolis,MN,55476,USA,pemberlyrealestate.example
+SUP-0133,Meridian Packaging Technologies Co.,9494 Cameron Blvd,Houston,TX,77024,USA,meridianpackaging.example
+SUP-0135,BLACKWELL INDUSTRIAL COMPONENTS PLC,5987 Foundry Way,Columbus,OH,43237,USA,blackwellindustrial.example
+SUP-0145,granite coatnig trading Co.,"9510 Franklin St, Ste 197",Kansas City,MO,64136,USA,
+SUP-0150,Unionville Aerospace Technologies,2513 Pine Blvd,Rochester,NY,14694,USA,unionvilleaerospace.example
+SUP-0168,Keyystone Rubber Supplies Co.,,Nashville,TN,37258,USA,
+SUP-0169,Keystone Rubber Supplies LLP,6138 Railroad Blvd,Nashville,TN,37272,USA,keystonerubber.example
+SUP-0183,ravenwood distribution Corp.,8191 Walnut Dr,Rochester,NY,14636,USA,ravenwoodmedical.example
+SUP-0213,Ironwood Office Materials GmbH,7768 Chestnut St,Brooklyn,NY,11282,USA,ironwoodoffice.example
+SUP-0214,Ravenwood Distribution LLC,8999 Foundry Blvd,Chicago,IL,60684,USA,ravenwoodsteel-group.example
+SUP-0217,Larkspur Metal Services LLC,2903 Chestnut Dr,Hartford,CT,06196,USA,larkspurmetal.example
+SUP-0230,Unionville Packaging Solutions LLP,3402 Market Way,Providence,RI,02988,USA,unionvillepackaging.example
+SUP-0240,keystone real services LLC,,Richmond,VA,23221,USA,keystonerealestate.example
+SUP-0241,Pemberly Estate Trading Ltd.,4912 Industrial Blvd,Minneapolis,MN,55481,USA,pemberlyrealestate.example
+SUP-0243,pemberly print industries Co.,,Memphis,TN,38113,USA,pemberlyprint.example
+SUP-0261,Ravenwood Medical Distribution LLC,1042 Foundry Way,Rochester,NY,14667,USA,ravenwoodmedical.example
+SUP-0286,Wexford Medical Solutions Inc.,3804 Cameron Rd,Columbus,OH,43248,USA,wexfordmedical.example
+SUP-0291,Ravenwood Tool Services Co.,329 Pine Ln,Phoenix,AZ,85033,USA,ravenwoodtool.example
+SUP-0307,Kingsley Textile Services Co.,4793 Walnut Ave,St. Louis,MO,63136,USA,kingsleytextile.example
+SUP-0335,unionville packaging solutions LLP,3402 Market Way,Providence,RI,02988,USA,unionvillepackaging.example
+SUP-0345,Pemberly Elctronics Industries GmbH,1482 Spruce Rd,Memphis,TN,38124,USA,pemberlyelectronics.example
+SUP-0351,FAIRMOUNT TEXTILE COMPONENTS Inc.,2233 Harbor Rd,Detroit,MI,48258,USA,fairmounttextile.example
+SUP-0359,Kingsley Solutions LLP,3198 Spruce Ln,Boston,MA,02141,USA,kingsleycable.example
+SUP-0369,Keystone Real Estate Services LLC,362 Maple Way,Richmond,VA,23221,USA,keystonerealestate.example
+SUP-0375,Unionville Arospcae Technologies Inc.,2513 Pine Blvd,Rochester,NY,14679,USA,unionvilleaerospace.example
+SUP-0380,Pemberly Real Estate Trading Corp.,4912 Industrial Blvd,Minneapolis,MN,55445,USA,pemberlyrealestate.example
+SUP-0395,Blckwell Industrial Components PLC,2620 Pine Rd,Columbus,OH,43224,USA,blackwellindustrial.example
+SUP-0396,Meridian Packaging Technologies,1611 Walnut Way,Pittsburgh,PA,15288,USA,meridianpackaginggrp.example
+SUP-0402,KINGSLEY AEROSPACE WORKS,"6926 Oak Ln, Ste 163",Providence,RI,02919,USA,kingsleyaerospace.example
+SUP-0412,MERIDIAN PACKAGING TECHNOLOGIES Co.,9849 Pine Ave,Pittsburgh,PA,15288,USA,meridianpackaginggrp.example
+SUP-0418,Kingsley Textile Services Co.,9454 Chestnut Blvd,St. Louis,MO,63136,USA,kingsleytextile.example
+SUP-0428,Meridian Packaging Technologies Co.,"4197 Commerce Ln, Ste 251",Houston,TX,77024,USA,meridianpackaging-group.example
+SUP-0454,PEMBERLY MACHINE DISTRIBUTION,"1106 Chestnut Pkwy, Ste 171",Minneapolis,MN,55472,USA,pemberlymachine-group.example
+SUP-0459,UNIONVILLE PACKAGING SOLUTIONS LLP,2360 Cameron Dr,Providence,RI,02941,USA,unionvillepackaging.example
+SUP-0464,Pemberly Print Industries Co.,"3900 Wharf Blvd, Ste 286",Memphis,TN,38114,USA,pemberlyprint.example
+SUP-0468,pemberly print industries,,Memphis,TN,38157,USA,pemberlyprint.example
+SUP-0471,ironwood office materials GmbH,7768 Chestnut St,Brooklyn,NY,11282,USA,ironwoodoffice.example
+SUP-0495,Pemberly Machine Distribution,"1106 Chestnut Pkwy, Ste 171",Minneapolis,MN,55472,USA,pemberlymachine.example
+SUP-0500,granite coating trading PLC,6907 Walnut Way,Kansas City,MO,64154,USA,granitecoating.example
+SUP-0505,KINGSLEY SERVICES Co.,4793 Walnut Ave,St. Louis,MO,63136,USA,kingsleytextile.example
+SUP-0507,Wexford Medical Solutions Inc.,3804 Cameron Rd,Columbus,OH,43248,USA,wexfordmedical.example
+SUP-0544,Fairmount Textile Components Inc.,"2003 Wharf Blvd, Ste 141",Detroit,MI,48258,USA,fairmounttextile.example
+SUP-0553,Ravenwood Distribution LLC,8533 Oak Dr,Chicago,IL,60621,USA,ravenwoodsteel.example
+SUP-0555,Wexford Staffing Trading,7757 Industrial Pkwy,Columbus,OH,43277,USA,wexfordstaffing.example
+SUP-0561,Hollowbrook Wire Trading Corp.,"1233 Elm Dr, Ste 358",Atlanta,GA,30373,USA,hollowbrookwire.example
+SUP-0564,kingsley aerospace works,8961 Commerce Rd,Providence,RI,02919,USA,kingsleyaerospace.example
+SUP-0573,Granite Coating Trading PLC,6907 Walnut Way,Kansas City,MO,64136,USA,granitecoating.example
+SUP-0592,UNIONVILLE AEROSPACE TECHNOLOGIES,,Rochester,NY,14694,USA,unionvilleaerospace.example
+SUP-0598,Pemberly Electronics Industries LLP,9337 Forge Pkwy,Memphis,TN,38124,USA,pemberlyelectronics.example
+SUP-0599,GRANITE COATING TRADING GmbH,6907 Walnut Way,Kansas City,MO,64136,USA,
+SUP-0631,Kingsley Textile Services Co.,335 Railroad Ave,Charlotte,MO,63136,USA,kingsleytextile.example
+SUP-0634,unonville aerospace technologies Co.,2513 Pine Blvd,Rochester,NY,14663,USA,unionvilleaerospace.example
+SUP-0635,Ravenwood Tool Serivces GmbH,,Phoenix,AZ,85033,USA,ravenwoodtool.example
+SUP-0661,IRONWOOD MACHINE COMPONENTS Ltd.,"8310 Elm Pkwy, Ste 146",Brooklyn,NY,11297,USA,ironwoodmachine.example
+SUP-0668,Wexford Staffing Trading,7757 Industrial Pkwy,Columbus,OH,43260,USA,wexfordstaffing.example
+SUP-0675,MIILSTEAD ELECTRONICS SUPPLIES Corp.,"2382 Washington Ave, Ste 15",Charlotte,NC,28214,USA,milsteadelectronics.example
+SUP-0681,Kingsley Aerospace Works,9583 Commerce Ave,Providence,RI,02919,USA,kingsleyaerospace.example
+SUP-0684,wexford staffing trading,7757 Industrial Pkwy,Columbus,OH,43282,USA,wexfordstaffing-group.example
+SUP-0718,Ironwood Machine Components Ltd.,"8310 Elm Pkwy, Ste 146",Brooklyn,NY,11266,USA,ironwoodmachine.example
+SUP-0732,Ironwwood Machine Components Ltd.,"8310 Elm Pkwy, Ste 146",Brooklyn,NY,11216,USA,ironwoodmachine.example
+SUP-0736,RAVENWOOD TOOL SERVICES LLC,329 Pine Ln,Phoenix,AZ,85033,USA,ravenwoodtool.example
+SUP-0745,Pemberly Machine Distribution Co.,"1106 Chestnut Pkwy, Ste 171",Minneapolis,MN,55472,USA,pemberlymachine.example
+SUP-0766,Quarryhill Automotive Supplies LLC,"9621 Elm Ln, Ste 146",Chicago,IL,60619,USA,quarryhillautomotive.example
+SUP-0790,hollowbrook wire trading Corp.,,Atlanta,GA,30373,USA,hollowbrookwire-group.example
+SUP-0811,larkspur metal services LLC,7577 Wharf Ave,Hartford,CT,06189,USA,larkspurmetal.example
+SUP-0813,Blackwell Industrial Components PLC,2620 Pine Rd,Columbus,OH,43224,USA,blackwellindustrial.example
+SUP-0820,Quarryhill Automotive Supplies LLC,"191 Cameron Ave, Ste 62",Chicago,IL,60619,USA,quarryhillautomotive.example
+SUP-0828,Kingsley Slutions Co. Corp.,6985 Liberty Rd,Richmond,VA,23212,USA,kingsleycablegrp.example
+SUP-0832,ironwood office materials GmbH,7768 Chestnut St,Brooklyn,NY,11282,USA,
+SUP-0842,Wexford Stafffing Trading Co.,7081 Oak St,Columbus,OH,43288,USA,wexfordstaffing.example

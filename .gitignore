@@ -1,0 +1,57 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+
+# --- Node ---
+node_modules/
+frontend/dist/
+frontend/node_modules/
+tests/e2e/node_modules/
+npm-debug.log*
+*.tsbuildinfo
+
+# --- Playwright ---
+playwright-report/
+test-results/
+blob-report/
+.playwright/
+
+# --- MLflow local tracking (transient; run IDs are recorded in reports/) ---
+mlruns/
+backend/mlruns/
+.mlflow/
+
+# --- Databases ---
+*.db
+*.sqlite
+*.sqlite3
+backend/vendorlens.db
+data/*.local.csv
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- Exported artifacts that are intentionally committed live in artifacts/ and reports/ ---
+# (nothing else to ignore there)

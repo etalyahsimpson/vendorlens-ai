@@ -1,0 +1,28 @@
+# --- backend build context ---
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+backend/.pytest_cache/
+backend/tests/.pytest_cache/
+*.db
+*.sqlite3
+mlruns/
+.env
+.env.*
+!/.env.example
+
+# --- frontend build context ---
+frontend/node_modules/
+frontend/dist/
+tests/e2e/node_modules/
+tests/e2e/playwright-report/
+tests/e2e/test-results/
+
+# --- repo-level artifacts not needed inside images ---
+.git/
+.github/
+docs/
+assets/
+reports/figures/
+*.md
+!backend/README.md
